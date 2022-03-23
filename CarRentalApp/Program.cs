@@ -22,6 +22,7 @@ namespace CarRentalApp
             //displayed first, we only have to change the third line in
             //the method.
             // This one (Application.Run(new AddRentalRecord());)
+
             Application.Run(new Login());
         }
     }
